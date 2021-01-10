@@ -10,8 +10,8 @@ In this Git Repository you will find :
  - obesity_notebook.ipynb     jupyter notebook file containing the pre-processing and predictions code
 
 To launch our app you need to : 
--open The Folder with VisualStudioCode
--In the terminal:
+- open The Folder with VisualStudioCode
+- In the terminal:
 $env:FLASK_APP="app"
 pip install -r requirements.txt
 
